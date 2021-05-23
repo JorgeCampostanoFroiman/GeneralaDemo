@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1593628661 source:c:\users\jcamp\desktop\utn\lbo\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1593634066 c:\users\jcamp\desktop\utn\lbo\generala\funciones.h
+
+1593634300 source:c:\users\jcamp\desktop\utn\lbo\generala\deffuncion.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1593630173 source:c:\users\jcamp\desktop\utn\fasdas.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
